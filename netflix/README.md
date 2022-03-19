@@ -1,6 +1,6 @@
 <h2 align="center"><u>MusicFlix</u></h2>
 
-![NetFlix Clone](assets\css\img\logo.png)
+![NetFlix Clone](logo.png)
 <h4 align="center"> NetFlix Clone </h4>
 
 <p align="center">
