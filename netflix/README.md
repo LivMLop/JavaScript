@@ -1,6 +1,6 @@
 <h2 align="center"><u>MusicFlix</u></h2>
 
-![NetFlix Clone](logo.png)
+<div align = "center"> ![NetFlix Clone](logo.png) </div>
 <h4 align="center"> NetFlix Clone </h4>
 
 <p align="center">
