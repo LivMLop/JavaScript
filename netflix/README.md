@@ -11,6 +11,14 @@
 ### [+] Description
 O objetivo da página é desenvolver técnicas semelhantes ao site NetFlix, desenvolvendo conceitos de HTML, CSS e JavaScript.
 
+### [+] Usage
+ - `Para visualizar a página acesse:`
+ <a href="https://java-script-six.vercel.app/">https://java-script-six.vercel.app/</a>
+
 ### [+] Screenshot
 ![screenshot](musicFlix.gif)
+
+
+
+
 
