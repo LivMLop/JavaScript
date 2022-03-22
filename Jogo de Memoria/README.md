@@ -8,11 +8,11 @@
 </p>
 
 ### [+] Description
-Criação de um jogo Gênesis utilizando apenas HTML, CSS e Javascript, sendo o principal conceito, CSS Grid, manipulação de Array e Arrow Functions.
+Criação de um jogo Genius utilizando apenas HTML, CSS e Javascript, sendo o principal conceito, CSS Grid, manipulação de Array e Arrow Functions.
 
 ### [+] Usage
  - `Para visualizar a página acesse:`<br>
- <a href="https://jogo.vercel.app/">https://.vercel.app/</a>
+ <a href="https://jogogenius.vercel.app/">https://jogogenius.vercel.app/</a>
 
 ### [+] Screenshot
 ![screenshot](./assets/img/tela.gif)
