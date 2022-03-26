@@ -1,6 +1,6 @@
 <h2 align="center"><u>Jogo da Velha</u></h2>
 
-![Jogo Genius](./assets/img/genius.jpg)
+![Jogo da velha](./assets/img/tela.jpg)
 
 <p align="center">
 <br>
@@ -12,7 +12,7 @@ Criação do jogo da Velha utilizando utilizando somente HTML para estruturar do
 
 ### [+] Usage
  - `Para visualizar a página acesse:`<br>
- <a href="https://jogogenius.vercel.app/">https://jogogenius.vercel.app/</a>
+ <a href="https://livmlop.github.io/JavaScript/Jogo%20da%20Velha/">https://livmlop.github.io/JavaScript/Jogo%20da%20Velha/</a>
 
 ### [+] Screenshot
-![screenshot](./assets/img/tela.gif)
+![screenshot](./assets/img/JV.gif)
