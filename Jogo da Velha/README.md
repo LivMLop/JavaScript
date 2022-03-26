@@ -1,6 +1,6 @@
 <h2 align="center"><u>Jogo da Velha</u></h2>
 
-![Jogo da velha](./assets/img/tela.jpg)
+![Jogo da velha](./assets/img/play.jpg)
 
 <p align="center">
 <br>
