@@ -8,31 +8,37 @@ function calculadora() {
     function soma() {
         resultado = n1 + n2;
         alert(`${n1} + ${n2} = ${resultado}`)
+        calculadora();
     }
 
     function subtracao() {
         resultado = n1 - n2;
         alert(`${n1} - ${n2} = ${resultado}`)
+        calculadora();
     }
 
     function multiplicacao() {
         resultado = n1 * n2;
         alert(`${n1} * ${n2} = ${resultado}`)
+        calculadora();
     }
 
     function divisaoReal() {
         resultado = n1 / n2;
         alert(`${n1} / ${n2} = ${resultado}`)
+        calculadora();
     }
 
     function divisaoInteiro() {
         resultado = n1 % n2;
         alert(`O resultado da divisão entre ${n1} e ${n2} é igual a ${resultado}`)
+        calculadora();
     }
 
     function potencia() {
         resultado = n1 ** n2;
         alert(`${n1} elevado a ${n2}ª é igual a ${resultado}`)
+        calculadora();
     }
 
     switch (operacao) {
