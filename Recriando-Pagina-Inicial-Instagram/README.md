@@ -8,7 +8,7 @@
 </p>
 
 ### [+] Description
-O objetivo da página é desenvolver técnicas semelhantes ao site NetFlix, desenvolvendo conceitos de HTML, CSS e JavaScript.
+Nesse projeto o desafio foi a reconstrução da página de login do Instagram, desenvolvendo conceitos de HTML, CSS e JavaScript.
 
 ### [+] Usage
  - `Para visualizar a página acesse:`<br>
