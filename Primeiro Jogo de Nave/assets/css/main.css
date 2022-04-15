@@ -90,7 +90,7 @@ body {
 }
 
 .anima1 {
-	background-image: url(../images/helicoptero.png);
+	background-image: url(../images/apache.png);
 	animation: play .5s steps(2) infinite;
 
     -webkit-animation: play .5s steps(2) infinite;
