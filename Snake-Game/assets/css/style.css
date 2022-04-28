@@ -1,0 +1,127 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 100vh;
+    font-family: arial;
+    background: #000000;
+    background-image: linear-gradient(to top left, #6b6d6e, #3a4442, #9ca09d);
+    position: relative;
+    text-align: center;
+  }
+  
+  header {
+    text-align: center;
+    font-size: 40px;
+    letter-spacing: 10px;
+    padding: 20px 10px;
+    color: white;
+  }
+  
+  .tabela {
+    width: 210px;
+    height: 230px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-iniciar;
+    flex-wrap: wrap;
+    box-shadow: 0 0 1px 2px rgba(0,0,0,0.3);
+  }
+  @media only screen and (min-width: 768px) {
+    .tabela {
+      width: 315px;
+      height: 345px;
+    }
+  }
+  
+  .box {
+    background: white;
+    border: solid 1px #7cffe5;
+    width: 10px;
+    height: 10px;
+  }
+  @media only screen and (min-width: 768px) {
+    .box {
+      width: 15px;
+      height: 15px;
+    }
+  }
+  
+  .food {
+    background: #ff0224;
+  }
+  
+  .snake {
+    background: #166b5a;
+  }
+  
+  .status {
+    background: white;
+    color: #000000;
+    border: solid 1px #7cffe5;
+    width: 210px;
+    height: 20px;
+  }
+  @media only screen and (min-width: 768px) {
+    .status {
+      width: 315px;
+      height: 30px;
+    }
+  }
+  
+  .score {
+    padding: 0 5px;
+    line-height: 20px;
+  }
+  @media only screen and (min-width: 768px) {
+    .score {
+      padding: 0 10px;
+      line-height: 30px;
+      font-size: 20px;
+    }
+  }
+  
+  .hidden {
+    display: none !important;
+  }
+  
+  .modul {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: rgba(0,0,0,0.5);
+    text-align: center;
+  }
+  .iniciar {
+    background: rgba(256,256,256,1);
+    padding: 40px 50px;
+    width: 240px;
+    box-shadow: 0 0 2px 3px rgba(0,0,0,0.3);
+  }
+  .iniciar span {
+    color: #000000;
+    border: 1px solid;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  .iniciar span:hover {
+    background: #222222;
+    color: white;
+  }
+  
+  
